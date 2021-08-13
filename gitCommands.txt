@@ -1,0 +1,10 @@
+git init --> To initialize git repo
+git add . --> Add all the files in the folder to git
+git commit -m "commit message" --> Commit to git repo with a meesafe
+git remote add origin "github link" --> Point your local git repo to remote location
+git push -u origin master --> Push your local code to the remote github repo, u means upstream
+git status --> It will show status of your files in repo
+
+--ubuntu
+ls 
+clear
